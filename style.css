@@ -6,7 +6,7 @@ h1 {
 
 /* p2 (ID: p1): màu chữ vàng, cỡ chữ 13, font Arial */
 #p1 {
-    color: gold;
+    color: yellow;
     font-size: 13px;
     font-family: Arial, sans-serif;
 }
@@ -18,3 +18,4 @@ h1 {
     font-size: 13px;
     font-family: "Times New Roman", Times, serif;
 }
+
